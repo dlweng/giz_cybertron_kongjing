@@ -1,0 +1,42 @@
+{
+    "app_id": "cddfd446945940948bb0788fe2f62ea7",
+    "app_secret": "7179223bb1ee4bfe9461c90aae93452e",
+    "product_key": "1c1e9a74788a4b9a92c78a073cb4e0db",
+    "product_secret":"91dd3e6e62c14e1886fa64daaa77bc30",
+    "device_name": "机智云空气管家",
+    "image": {
+        "guide": [
+                  "guide1.png",
+                  "guide2.png",
+                  "guide3.png"
+                  ],
+        "boot": "boot.png",
+        "login_logo": "login_logo.png",
+        "login_background": "login_background.png",
+        "add_device": "add_device.png",
+        "touch_device": "touch_device.png",
+        "device": "device.png"
+    },
+    "color": {
+        "login_text": "#FFFFFFFF",
+        "login_hint": "#B2FFFFFF",
+        "login_button_background": "#00FFFFFF",
+        "login_button_background_selected": "#FF0AAF60",
+        "login_button_background_frame": "#FFFFFFFF",
+        "login_button_text": "#FFFFFFFF",
+        "login_button_text_selected": "#FFFFFFFF",
+        "login_icon": "#FFFFFFFF",
+        "text": "#FF666666",
+        "hint": "#FF747474",
+        "background": "#FFFFFFFF",
+        "button_background": "#FF0AAF60",
+        "button_background_selected": "#FFFFFFFF",
+        "button_background_frame": "#FF0AAF60",
+        "button_text": "#FFFFFFFF",
+        "button_text_selected": "#FF0AAF60",
+        "icon": "#FF666666",
+        "navigationbar_text": "#FFFFFFFF",
+        "navigationbar_icon": "#FFFFFFFF",
+        "navigationbar_background": "#FF0AAF60"
+    }
+}
